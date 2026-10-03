@@ -1,0 +1,5 @@
+[Github] (https://github.com/Paltosik92/Lab3-MarkdownLaTeX_Leontev)
+[Markdown] (https://www.markdownguide.org/ "Перейти на официальный сайт")
+[ds] (https://discord.com/ "Перейти на официальный сайт")
+![Скриншот задания](/img/gitPushLab3_orlov.png)
+![Скриншот задания](/img/listsCommitLab3_orlov.png)
